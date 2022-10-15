@@ -105,4 +105,4 @@ const usersController = {
 };
 
 // Export module users controller
-module.exports = usersController; 
+module.exports = usersController;
